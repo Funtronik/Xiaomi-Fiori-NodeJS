@@ -1,0 +1,7 @@
+#API itself
+Xiaomi/devices/:deviceId
+Xiaomi/availableDevices
+Xiaomi/savedDevices
+
+#Mongoose
+mongoosePW (set mongoosePW=PASS where PASS eq password unset VARIABLE_NAME)
